@@ -16,7 +16,7 @@ const Hero = (props) => (
      <SectionText>
        Former Construction Manager turned Web Developer.  Well versed in front-end JavaScript development and various frameworks.  Building on the back-end with Node, Express, and MongoDB.
      </SectionText>
-     <Button onClick={() => window.location = "mailto:samlarson94@gmail.com"}>Learn More</Button>
+     <Button onClick={() => window.location = "mailto:samlarson94@gmail.com"}>Let's Connect</Button>
    </LeftSection>
  </Section>
 );
