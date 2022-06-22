@@ -14,7 +14,7 @@ const Hero = (props) => (
       Full-Stack Web Developer
      </SectionTitle>
      <SectionText>
-       Former Construction Manager turned Web Developer.  Well versed in front-end JavaScript development and various frameworks.  Building on the back-end with Node, Express, and MongoDB.
+       Well versed in front-end JavaScript development and various frameworks.  Building on the back-end with Node, Express, and MongoDB/MySQL.
      </SectionText>
      <Button onClick={() => window.location = "mailto:samlarson94@gmail.com"}>Let's Connect</Button>
    </LeftSection>

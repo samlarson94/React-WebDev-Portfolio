@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/reactFiLogo.png',
       tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/samlarson94/Crypto-Dashboard',
-    visit: 'https://google.com',
+    visit: 'https://fathomless-forest-08775.herokuapp.com/',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/spacex.jpg',
     tags: ['React', 'JavaScript', 'APIs'],
     source: 'https://github.com/samlarson94/SpaceX-React-App',
-    visit: 'https://google.com',
+    visit: 'https://github.com/samlarson94/SpaceX-React-App',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/NoteTaker.png',
       tags: ['JavaScript', 'Express', 'Node', 'CSS', 'HTML'],
     source: 'https://github.com/samlarson94/my-notetaker',
-    visit: 'https://google.com',
+    visit: 'https://sams-note-taker-app.herokuapp.com/',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/ecommerce.jpg',
     tags: ['RESTful APIs', 'Sequelize', 'MySQL', 'ORM'],
     source: 'https://github.com/samlarson94/eCommerce-Backend',
-    visit: 'https://google.com',
+    visit: 'https://github.com/samlarson94/eCommerce-Backend',
     id: 3,
   },
 ];
