@@ -6,6 +6,7 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider />
+    < br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web development world, from front-end to back-end.
@@ -27,7 +28,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, Express.js, MongoDB, MySQL, GraphQL, Sequelize, Insomnia/Postman
+            Node.js, Express.js, MongoDB, MySQL, GraphQL, Sequelize, Insomnia/Postman, AWS, Heroku
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -47,7 +48,7 @@ const Technologies = () =>  (
           <ListTitle>Project Management</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Microsoft Project, Microsoft Office Suite
+            tools like Microsoft Project, Microsoft Office Suite, Test-Driven Development
           </ListParagraph>
         </ListContainer>
       </ListItem>
