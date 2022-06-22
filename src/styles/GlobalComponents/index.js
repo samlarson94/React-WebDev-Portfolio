@@ -279,3 +279,15 @@ export const LinkIconImg = styled.div`
     height: ${({ large }) => large ? '32px' : '16px'};
   }
 `
+
+export const ProfileImage = styled.img`
+display: flex;
+flex-direction: row;
+justify-content: center;
+width: 200px;
+height: 200px;
+border: 2px solid white;
+border-radius: 100px;
+
+
+`

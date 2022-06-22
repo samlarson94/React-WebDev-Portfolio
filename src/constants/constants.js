@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'React-Fi',
-    description: "A full-Stack MERN application built as a group project during bootcamp. Powered by CoinGecko's API, the app provides users with a place to explore and track their favorite crypto holdings.",
+    description: "A full-Stack MERN application built with a small team during bootcamp. Powered by CoinGecko's API, the app provides users with a place to explore and track their favorite crypto holdings.",
       image: '/images/reactFiLogo.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/samlarson94/Crypto-Dashboard',
     visit: 'https://google.com',
     id: 0,
