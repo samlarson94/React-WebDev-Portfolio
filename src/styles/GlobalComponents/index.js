@@ -286,8 +286,6 @@ flex-direction: row;
 justify-content: center;
 width: 200px;
 height: 200px;
-border: 2px solid white;
+border: 3px solid white;
 border-radius: 100px;
-
-
 `
