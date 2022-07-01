@@ -1,5 +1,6 @@
 import styled from "styled-components"
 
+
 export const Boxes = styled.div`
   width: 100%;
   display: grid;
@@ -131,4 +132,7 @@ export const IconContainer = styled.div`
     width: 160px;
     justify-content: space-between;
   }
+`
+export const Flush = styled.div `
+
 `

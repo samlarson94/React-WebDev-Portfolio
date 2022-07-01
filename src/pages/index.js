@@ -7,7 +7,9 @@ import Timeline from '../components/TimeLine/TimeLine';
 import ContinuedLearning from '../components/ContinuedLearning/ContinuedLearning';
 import { Layout } from '../layout/Layout';
 import { ProfileImage, Section } from '../styles/GlobalComponents';
-import ProfilePicture from '../components/ProfilePicture/ProfilePicture'
+import ProfilePicture from '../components/ProfilePicture/ProfilePicture';
+import "bootstrap/dist/css/bootstrap.min.css";
+
 
 const Home = () => {
   return (
