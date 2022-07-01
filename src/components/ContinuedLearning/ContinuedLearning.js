@@ -5,12 +5,14 @@ import { Box, Boxes, BoxNum, BoxText } from './ContinuedLearningStyles';
 
 const data = [
   { title: 'Cloud Engineering', text: 'AWS Practitioner'},
-  { title: 'Computer Science for Web Programming', text: 'Harvard University' }
+  { title: 'Computer Science for Web Programming', text: 'Harvard University' },
   { title: 'MicroMasters in Algorithms and Data Structures', text: 'UC San Diego'}
 ];
 
-const Acomplishments = () => (
+const ContinuedLearning = () => (
   <Section>
+    < SectionDivider />
+    < br />
     <SectionTitle>Continuing Education</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
@@ -23,4 +25,4 @@ const Acomplishments = () => (
   </Section>
 );
 
-export default ContinuedEd;
+export default ContinuedLearning;
