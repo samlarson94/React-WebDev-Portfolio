@@ -4,6 +4,13 @@ import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, 
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
 
+// ======================
+
+// DEV NOTE: ALL Carousel(Timeline) & Project Card CONTENT IS STORED IN 'CONSTANTS' FOLDER WITHIN CONSTANT.JS
+
+// ======================
+
+
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
 const Timeline = () => {

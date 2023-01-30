@@ -42,5 +42,5 @@ export const TimeLineData = [
   { year: 2018, text: "Worked as a Project Engineer, building schools with Kraus-Anderson's K-12 division", },
   { year: 2019, text: "Started building apartment buildings as an Associate Project Manager for Yellow Tree Development", },
   { year: 2020, text: "Was promoted to Project Manager. Successfully lead teams to deliver over $100M worth of new apartment buildings over the next few years.", },
-  { year: 2022, text: "Decided to go all-in on my coding hobby with the hopes to build something for the AEC industry.  Graduated from the University of Minnesota's Full-Stack Developer bootcamp in June 2022.", },
+  { year: 2022, text: "Went all-in on tech and graduated from the University of Minnesota's Full-Stack Developer bootcamp.  Went on to launch a new career in Construction Tech.", },
 ];
