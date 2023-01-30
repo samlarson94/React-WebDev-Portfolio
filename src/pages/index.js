@@ -22,7 +22,6 @@ const Home = () => {
       <Timeline />
       <Projects />
       <Technologies />
-      <Acomplishments />
       <ContinuedLearning />
     </Layout>
   );

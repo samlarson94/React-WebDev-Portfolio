@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiCompass, DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiCompass, DiFirebase, DiReact, DiZend, DiJavascript } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js, JavaScript, HTML/CSS
+            Django, React.js, Next.js, JavaScript, Python, jQuery, HTML/CSS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, Express.js, MongoDB, MySQL, GraphQL, Sequelize, Insomnia/Postman, AWS, Heroku
+            Django, Node.js, Express.js, MongoDB, MySQL, GraphQL, Heroku
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -46,13 +46,23 @@ const Technologies = () =>  (
       <ListItem>
         <DiCompass size="3rem" />
         <ListContainer>
-          <ListTitle>Project Management</ListTitle>
+          <ListTitle>Business Applications</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Microsoft Project, Microsoft Office Suite, Test-Driven Development
+            Saleforce Admin <br />
+            Webhook Email Automation <br /> Microsoft PowerBI and PowerApps
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <ListItem>
+        <DiJavascript size="3rem" />
+        <ListContainer>
+          <ListTitle>Extensive Experience With:</ListTitle>
+          <ListParagraph>
+            Salesforce API<br /> Procore API
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      
     </List>
     </Section>
 );
