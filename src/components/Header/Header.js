@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillVideoCamera } from 'react-icons/ai';
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillVideoCamera, AiOutlineBook } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
 
 //Import styled components from HeaderStyles.js
@@ -46,6 +46,9 @@ const Header = () =>  (
         </SocialIcons>
         <SocialIcons href="https://www.studio31g.com">
           <AiFillVideoCamera size="3rem" />
+        </SocialIcons>
+        <SocialIcons href="https://www.samlarson.io">
+          <AiOutlineBook size="3rem" />
         </SocialIcons>
       </Div3>
   
