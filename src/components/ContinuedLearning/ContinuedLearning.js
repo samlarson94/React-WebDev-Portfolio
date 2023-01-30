@@ -1,8 +1,9 @@
 import React from 'react';
 
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText } from './ContinuedLearningStyles';
+// import { Box, Boxes, BoxNum, BoxText } from './ContinuedLearningStyles';
 import Accordion from 'react-bootstrap/Accordion';
+import { ListItem } from '../Technologies/TechnologiesStyles';
 
 const data = [
   { title: 'Cloud Engineering', text: 'AWS Practitioner'},
@@ -27,13 +28,17 @@ const ContinuedLearning = () => (
 
 <Section>
 < SectionDivider />
-< br />
-<SectionTitle>Continuing Education</SectionTitle>
+
+<SectionTitle style={{marginTop: "50px"}}>Continuing Education</SectionTitle>
+{/* <List>
+  <ListItem>Cloud Engineering</ListItem>
+  <ListItem>Cloud Engineering</ListItem>
+  <ListItem>Cloud Engineering</ListItem>
+</List> */}
 <Accordion>
   <Accordion.Item eventKey="0">
-    <Accordion.Header>Cloud Engineering</Accordion.Header>
+    <Accordion.Header>University of Texa: Machine Learning & Artificial Intellegence PG Program</Accordion.Header>
     <Accordion.Body>
-      Studying for AWS Practicioner exam. Expected pass date August 2022.
     </Accordion.Body>
   </Accordion.Item>
   <Accordion.Item eventKey="1">
