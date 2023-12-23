@@ -6,7 +6,7 @@ import Accordion from 'react-bootstrap/Accordion';
 import { ListItem } from '../Technologies/TechnologiesStyles';
 
 const data = [
-  { title: 'Cloud Engineering', text: 'AWS Practitioner'},
+  { title: 'Artificial Intelligence & Machine Learning', text: 'University of Texas'},
   { title: 'Computer Science for Web Programming', text: 'Harvard University' },
   { title: 'MicroMasters in Algorithms and Data Structures', text: 'UC San Diego'}
 ];
@@ -37,7 +37,7 @@ const ContinuedLearning = () => (
 </List> */}
 <Accordion>
   <Accordion.Item eventKey="0">
-    <Accordion.Header>University of Texa: Machine Learning & Artificial Intellegence PG Program</Accordion.Header>
+    <Accordion.Header>University of Texas: Machine Learning & Artificial Intellegence PG Program</Accordion.Header>
     <Accordion.Body>
     </Accordion.Body>
   </Accordion.Item>
