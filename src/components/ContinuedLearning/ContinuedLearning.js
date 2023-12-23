@@ -35,19 +35,5 @@ const ContinuedLearning = () => (
 </Section>
 );
 
-/* <Section>
-< SectionDivider />
-
-<SectionTitle style={{marginTop: "50px"}}>Continuing Education</SectionTitle>
-<List>
-  <ListItem>University of Texas: Machine Learning & Artificial Intelligence Post Graduate Program</ListItem>
-  <ListItem>UC San Diego - MicroMasters in Algorithms and Data Structures
-    <ul>
-      <li>Working on MicroMasters program to expand my knowledge on designing algorithms and data structures.</li>
-    </ul>
-  </ListItem>
-</List>
-</Section> */
-
 
 export default ContinuedLearning;
