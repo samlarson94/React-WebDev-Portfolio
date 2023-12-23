@@ -43,4 +43,5 @@ export const TimeLineData = [
   { year: 2019, text: "Started building apartment buildings as an Associate Project Manager for Yellow Tree Development", },
   { year: 2020, text: "Was promoted to Project Manager. Successfully lead teams to deliver over $100M worth of new apartment buildings over the next few years.", },
   { year: 2022, text: "Went all-in on tech and graduated from the University of Minnesota's Full-Stack Developer bootcamp.  Went on to launch a new career in Construction Tech.", },
+  { year: 2023, text: "Developed custom construction tech solutions for a large GC. Studied machine learning at the University of Texas Austin.", },
 ];
