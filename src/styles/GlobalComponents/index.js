@@ -11,12 +11,13 @@ export const EdList = styled.ul`
 
   li {
     margin-bottom: 8px;
+    margin-left: 20px;
     /* Add additional list item styles here if needed */
   }
 `;
 
 export const EdListItem = styled.li`
-  list-style-type: space-counter;
+  list-style: inside;
 `;
 
 export const Section = styled.section`
