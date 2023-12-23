@@ -9,7 +9,7 @@ const ProfilePicture = (props) => (
             alignItems: 'center',
             justifyContent: 'center'
         }}>
-        <ProfileImage src="/images/headshot.jpeg" />
+        <ProfileImage src="/images/headshot2023.jpeg" />
         </div>
     </Section>
 )
