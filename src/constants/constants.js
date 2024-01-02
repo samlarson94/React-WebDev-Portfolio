@@ -38,10 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Graduated from NDSU with a degree in Construction Management & Business Administration. Started coding on freeCodeCamp.com.', },
-  { year: 2018, text: "Worked as a Project Engineer, building schools with Kraus-Anderson's K-12 division", },
-  { year: 2019, text: "Started building apartment buildings as an Associate Project Manager for Yellow Tree Development", },
+  { year: 2017-2020, text: "Graduated with a degree in Construction Management and started my career building schools and apartment buildings."},
   { year: 2020, text: "Was promoted to Project Manager. Successfully lead teams to deliver over $100M worth of new apartment buildings over the next few years.", },
-  { year: 2022, text: "Went all-in on tech and graduated from the University of Minnesota's Full-Stack Developer bootcamp.  Went on to launch a new career in Construction Tech.", },
-  { year: 2023, text: "Developed custom construction tech solutions for a large GC. Studied machine learning at the University of Texas Austin.", },
+  { year: 2022, text: "Went all-in on tech and graduated from the University of Minnesota's Full-Stack Developer bootcamp.  Went on to launch a new career in construction tech.", },
+  { year: 2023, text: "Developed custom construction tech solutions. Studied machine learning at the University of Texas Austin.", },
 ];
