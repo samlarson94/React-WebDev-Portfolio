@@ -30,7 +30,7 @@ const ContinuedLearning = () => (
 <Section>
   <SectionTitle>Continuing Education</SectionTitle>
     <EdList nopadding>
-      <EdListItem>University of Texas: Machine Learning & Artificial Intelligence Post Graduate Program (2023)</EdListItem>
+      <EdListItem>University of Texas - Austin: Machine Learning & Artificial Intelligence Post Graduate Program (2023)</EdListItem>
     </EdList>
 </Section>
 );
